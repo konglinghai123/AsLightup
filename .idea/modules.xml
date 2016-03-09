@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/XListView/XListView.iml" filepath="$PROJECT_DIR$/XListView/XListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dawnlightning/dawnlightning.iml" filepath="$PROJECT_DIR$/dawnlightning/dawnlightning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianliang.iml" filepath="$PROJECT_DIR$/dianliang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gesture-imageview/gesture-imageview.iml" filepath="$PROJECT_DIR$/gesture-imageview/gesture-imageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageloadlibrary/imageloadlibrary.iml" filepath="$PROJECT_DIR$/imageloadlibrary/imageloadlibrary.iml" />
+    </modules>
+  </component>
+</project>

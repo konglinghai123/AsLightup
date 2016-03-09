@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference" name="absListViewStyle"/>
+    <attr format="reference" name="listViewStyle"/>
+    <color name="action_comment_bg">#ffcc3131</color>
+    <color name="action_comment_bg_night">#ff791d1d</color>
+    <item name="action_comment_text" type="color">@color/title_text_color</item>
+    <item name="action_comment_text_night" type="color">@color/title_text_color_night</item>
+    <color name="bg">#FFF39200</color>
+    <color name="bg_gray">#FFE3E3E7</color>
+    <color name="black">#FF000000</color>
+    <color name="black2">#80000000</color>
+    <color name="blue">#436EEE</color>
+    <color name="buttom_buttom">#000000</color>
+    <color name="buttom_centre">#303030</color>
+    <color name="buttom_top">#1e1e1e</color>
+    <color name="click_color">#2b72d6</color>
+    <color name="coffee">#622f1b</color>
+    <color name="gray">#ff333333</color>
+    <color name="graybg">#ececec</color>
+    <color name="light_blue">#5CACEE</color>
+    <color name="light_gray">#87CEEB</color>
+    <color name="light_orange">#FFFCBA00</color>
+    <color name="lightblue">#FF007AA2</color>
+    <color name="lightorange">#FFACBA00</color>
+    <color name="nomalGray">#838B83</color>
+    <color name="orange">#FFE84E0E</color>
+    <color name="orange_red">#613030</color>
+    <color name="pathbg">#f1eee9</color>
+    <color name="pathbg2">#d0c3b7</color>
+    <color name="red">#FFFF0000</color>
+    <color name="select">#8B8682</color>
+    <color name="slidingmenuline">#757575</color>
+    <color name="title_text_color">#ffffffff</color>
+    <color name="title_text_color_night">#ffb1b1b1</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent2">#55ffffff</color>
+    <color name="transparentblack">#88000000</color>
+    <color name="transparentblack2">#cc000000</color>
+    <color name="transparentblue">#445CACEE</color>
+    <color name="transparentdarkgray">#CC292929</color>
+    <color name="transparentgray">#CC666666</color>
+    <color name="txt_blue">#FF007CB0</color>
+    <color name="txt_gray">#FF575756</color>
+    <color name="txt_orange">#FFEB6100</color>
+    <color name="wangyibg">#f0f0f0</color>
+    <color name="wangyibg2">#E0E0E0</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whiteGray">#ffC9CACB</color>
+    <color name="yellow">#FFD700</color>
+    <color name="yellowbg">#e5d84f</color>
+    <color name="younibg">#f6f6f6</color>
+    <declare-styleable name="AbsListView"><attr format="color|reference" name="listSelector"/><attr format="boolean" name="drawSelectorOnTop"/><attr format="boolean" name="stackFromBottom"/><attr format="boolean" name="scrollingCache"/><attr format="boolean" name="textFilterEnabled"/><attr name="transcriptMode"><enum name="disabled" value="0"/><enum name="normal" value="1"/><enum name="alwaysScroll" value="2"/></attr><attr format="color" name="cacheColorHint"/><attr format="boolean" name="fastScrollEnabled"/><attr format="boolean" name="smoothScrollbar"/><attr name="choiceMode"><enum name="none" value="0"/><enum name="singleChoice" value="1"/><enum name="multipleChoice" value="2"/><enum name="multipleChoiceModal" value="3"/></attr><attr format="boolean" name="fastScrollAlwaysVisible"/></declare-styleable>
+    <declare-styleable name="ListView"><attr format="dimension" name="dividerHeight"/><attr format="boolean" name="headerDividersEnabled"/><attr format="boolean" name="footerDividersEnabled"/><attr format="reference|color" name="overScrollHeader"/><attr format="reference|color" name="overScrollFooter"/></declare-styleable>
+    <declare-styleable name="PinterestLikeAdapterView"><attr format="integer" name="plaColumnNumber"/><attr format="integer" name="plaLandscapeColumnNumber"/><attr format="dimension" name="plaColumnPaddingLeft"/><attr format="dimension" name="plaColumnPaddingRight"/></declare-styleable>
+    <declare-styleable name="View"><attr format="reference" name="id"/><attr format="string" name="tag"/><attr format="dimension" name="scrollX"/><attr format="dimension" name="scrollY"/><attr format="dimension" name="padding"/><attr format="dimension" name="paddingLeft"/><attr format="dimension" name="paddingTop"/><attr format="dimension" name="paddingRight"/><attr format="dimension" name="paddingBottom"/><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr format="boolean" name="focusable"/><attr format="boolean" name="focusableInTouchMode"/><attr name="visibility"><enum name="visible" value="0"/><enum name="invisible" value="1"/><enum name="gone" value="2"/></attr><attr format="boolean" name="fitsSystemWindows"/><attr name="scrollbars"><flag name="none" value="0x00000000"/><flag name="horizontal" value="0x00000100"/><flag name="vertical" value="0x00000200"/></attr><attr name="scrollbarStyle"><enum name="insideOverlay" value="0x0"/><enum name="insideInset" value="0x01000000"/><enum name="outsideOverlay" value="0x02000000"/><enum name="outsideInset" value="0x03000000"/></attr><attr format="boolean" name="isScrollContainer"/><attr format="boolean" name="fadeScrollbars"/><attr format="integer" name="scrollbarFadeDuration"/><attr format="integer" name="scrollbarDefaultDelayBeforeFade"/><attr format="dimension" name="scrollbarSize"/><attr format="reference" name="scrollbarThumbHorizontal"/><attr format="reference" name="scrollbarThumbVertical"/><attr format="reference" name="scrollbarTrackHorizontal"/><attr format="reference" name="scrollbarTrackVertical"/><attr format="boolean" name="scrollbarAlwaysDrawHorizontalTrack"/><attr format="boolean" name="scrollbarAlwaysDrawVerticalTrack"/><attr name="fadingEdge"><flag name="none" value="0x00000000"/><flag name="horizontal" value="0x00001000"/><flag name="vertical" value="0x00002000"/></attr><attr name="requiresFadingEdge"><flag name="none" value="0x00000000"/><flag name="horizontal" value="0x00001000"/><flag name="vertical" value="0x00002000"/></attr><attr format="dimension" name="fadingEdgeLength"/><attr format="reference" name="nextFocusLeft"/><attr format="reference" name="nextFocusRight"/><attr format="reference" name="nextFocusUp"/><attr format="reference" name="nextFocusDown"/><attr format="reference" name="nextFocusForward"/><attr format="boolean" name="clickable"/><attr format="boolean" name="longClickable"/><attr format="boolean" name="saveEnabled"/><attr format="boolean" name="filterTouchesWhenObscured"/><attr name="drawingCacheQuality"><enum name="auto" value="0"/><enum name="low" value="1"/><enum name="high" value="2"/></attr><attr format="boolean" name="keepScreenOn"/><attr format="boolean" name="duplicateParentState"/><attr format="dimension" name="minHeight"/><attr format="dimension" name="minWidth"/><attr format="boolean" name="soundEffectsEnabled"/><attr format="boolean" name="hapticFeedbackEnabled"/><attr format="string" localization="suggested" name="contentDescription"/><attr format="string" name="onClick"/><attr name="overScrollMode"><enum name="always" value="0"/><enum name="ifContentScrolls" value="1"/><enum name="never" value="2"/></attr><attr format="float" name="alpha"/><attr format="dimension" name="translationX"/><attr format="dimension" name="translationY"/><attr format="dimension" name="transformPivotX"/><attr format="dimension" name="transformPivotY"/><attr format="float" name="rotation"/><attr format="float" name="rotationX"/><attr format="float" name="rotationY"/><attr format="float" name="scaleX"/><attr format="float" name="scaleY"/><attr name="verticalScrollbarPosition"><enum name="defaultPosition" value="0"/><enum name="left" value="1"/><enum name="right" value="2"/></attr><attr name="layerType"><enum name="none" value="0"/><enum name="software" value="1"/><enum name="hardware" value="2"/></attr><attr name="layoutDirection"><enum name="ltr" value="0"/><enum name="rtl" value="1"/><enum name="inherit" value="2"/><enum name="locale" value="3"/></attr><attr format="integer" name="textDirection"><enum name="inherit" value="0"/><enum name="firstStrong" value="1"/><enum name="anyRtl" value="2"/><enum name="ltr" value="3"/><enum name="rtl" value="4"/><enum name="locale" value="5"/></attr><attr format="integer" name="textAlignment"><enum name="inherit" value="0"/><enum name="gravity" value="1"/><enum name="textStart" value="2"/><enum name="textEnd" value="3"/><enum name="center" value="4"/><enum name="viewStart" value="5"/><enum name="viewEnd" value="6"/></attr><attr format="integer" name="importantForAccessibility"><enum name="auto" value="0"/><enum name="yes" value="1"/><enum name="no" value="2"/></attr><attr format="integer" name="accessibilityFocusable"><enum name="auto" value="0"/><enum name="yes" value="1"/><enum name="no" value="2"/></attr></declare-styleable>
+    <declare-styleable name="ViewGroup"><attr format="boolean" name="animateLayoutChanges"/><attr format="boolean" name="clipChildren"/><attr format="boolean" name="clipToPadding"/><attr format="reference" name="layoutAnimation"/><attr format="boolean" name="animationCache"/><attr name="persistentDrawingCache"><flag name="none" value="0x0"/><flag name="animation" value="0x1"/><flag name="scrolling" value="0x2"/><flag name="all" value="0x3"/></attr><attr format="boolean" name="alwaysDrawnWithCache"/><attr format="boolean" name="addStatesFromChildren"/><attr name="descendantFocusability"><enum name="beforeDescendants" value="0"/><enum name="afterDescendants" value="1"/><enum name="blocksDescendants" value="2"/></attr><attr format="boolean" name="splitMotionEvents"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <drawable name="activated_background_color">#00a7ff</drawable>
+    <item name="comment_id" type="id"/>
+    <item name="message_id" type="id"/>
+    <item name="pictrue_id" type="id"/>
+    <item name="scrapped_view" type="id"/>
+    <item name="title_id" type="id"/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">张敏眼科</string>
+    <string name="down_fail">下载失败</string>
+    <string name="down_sucess">下载成功</string>
+    <string name="hello">Hello World, XListViewActivity!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="insert_card">插入卡</string>
+    <string name="is_downing">正在下载</string>
+    <string name="loading">加载中...</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="ptr_last_updated">Updated: %1$s</string>
+    <string name="ptr_pull_to_refresh">Pull to refresh</string>
+    <string name="ptr_refreshing">Refreshing</string>
+    <string name="ptr_release_to_refresh">Release to refresh</string>
+    <string name="ssdk_alipay">支付宝好友</string>
+    <string name="ssdk_alipay_client_inavailable">目前您的支付宝版本过低或未安装，需要安装支付宝才能使用</string>
+    <string name="ssdk_baidutieba">百度贴吧</string>
+    <string name="ssdk_baidutieba_client_inavailable">目前您的百度贴吧版本过低或未安装，需要安装百度贴吧才能使用</string>
+    <string name="ssdk_bluetooth">蓝牙</string>
+    <string name="ssdk_douban">豆瓣</string>
+    <string name="ssdk_dropbox">Dropbox</string>
+    <string name="ssdk_email">邮件</string>
+    <string name="ssdk_evernote">印象笔记</string>
+    <string name="ssdk_facebook">Facebook</string>
+    <string name="ssdk_facebookmessenger">Facebook Messenger</string>
+    <string name="ssdk_flickr">Flickr</string>
+    <string name="ssdk_foursquare">FourSquare</string>
+    <string name="ssdk_google_plus_client_inavailable">Google+ 版本过低或者没有安装，需要升级或安装Google+才能使用！</string>
+    <string name="ssdk_googleplus">Google+</string>
+    <string name="ssdk_instagram">Instagram</string>
+    <string name="ssdk_instagram_client_inavailable">Instagram版本过低或者没有安装，需要升级或安装Instagram才能使用！</string>
+    <string name="ssdk_instapager_email_or_password_incorrect">Email或密码不正确</string>
+    <string formatted="false" name="ssdk_instapager_login_html">
+&lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+&lt;meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">
+&lt;meta content=\"width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no\" id=\"viewport\" name=\"viewport\">
+&lt;meta content=\"yes\" name=\"apple-mobile-web-app-capable\">
+&lt;title>%s&lt;/title>
+&lt;style type=\"text/css\">
+body{margin:0;padding:0}
+.inputstyle {
+    -webkit-tap-highlight-color:rgba(255,255,255,0);
+    width:100%%;
+    height:44px;
+    color:#000;
+    background:0;
+    border:0;
+    font-size:16px;
+    outline: none;
+    -webkit-appearance:none
+}
+
+.btn {
+    width:90%%;
+    height:44px;
+    line-height:44px;
+    background:#A0C035;
+    border:0;
+    border-radius:4px;
+    color:#fff;
+    font-size:16px;
+    text-align:center;
+    margin-top:15px;
+    display:block
+}
+.btn:disabled {
+    background: #dddddd;
+}
+.error {
+    color:red;
+}
+&lt;/style>
+&lt;/head>
+
+&lt;body>
+&lt;script type=\"text/javascript\">
+function login(form){
+    var u=form[\"u\"].value,p=form[\"p\"].value;
+    if(!u || !p)
+        return false;
+    form[\"s\"].disabled = true;
+    return true;
+}
+&lt;/script>
+&lt;form style=\"margin-top:45px;\" action=\"%s\" metho=\"get\" onsubmit=\"return login(this);\">
+%s
+&lt;div style=\"padding-left:15px;border-top:1px solid #E3E3E5;border-bottom:1px solid #E3E3E5;\">
+ &lt;input type=\"hidden\" name=\"ID_SIGN\" value=\"OWELJSFPWECSFEW\"/>
+ &lt;input class=\"inputstyle\" id=\"u\" name=\"u\" type=\"text\" value=\"%s\" placeholder=\"%s\" style=\"border-bottom:1px solid #E3E3E5;\"/>
+ &lt;input class=\"inputstyle\" id=\"p\" name=\"p\" type=\"password\" placeholder=\"%s\"/>
+&lt;/div>
+&lt;p>&lt;input style=\"margin:0 auto;\" type=\"submit\" name=\"s\" value=\"  %s  \" class=\"btn\"/>&lt;/p>
+&lt;/form>
+&lt;/body>
+&lt;/html>
+</string>
+    <string name="ssdk_instapaper">Instapaper</string>
+    <string name="ssdk_instapaper_email">邮箱</string>
+    <string name="ssdk_instapaper_login">登录</string>
+    <string name="ssdk_instapaper_logining">登录中…</string>
+    <string name="ssdk_instapaper_pwd">密码</string>
+    <string name="ssdk_kaixin">开心网</string>
+    <string name="ssdk_kakaostory">KakaoStory</string>
+    <string name="ssdk_kakaostory_client_inavailable">目前您的KakaoStory版本过低或未安装，需要安装KakaoStory才能使用</string>
+    <string name="ssdk_kakaotalk">KakaoTalk</string>
+    <string name="ssdk_kakaotalk_client_inavailable">目前您的KakaoTalk版本过低或未安装，需要安装KakaoTalk才能使用</string>
+    <string name="ssdk_laiwang">来往</string>
+    <string name="ssdk_laiwang_client_inavailable">目前您的来往版本过低或未安装，需要安装来往才能使用</string>
+    <string name="ssdk_laiwangmoments">来往动态</string>
+    <string name="ssdk_line">Line</string>
+    <string name="ssdk_line_client_inavailable">目前您的Line版本过低或未安装，需要安装Line才能使用</string>
+    <string name="ssdk_linkedin">领英</string>
+    <string name="ssdk_mingdao">明道</string>
+    <string name="ssdk_mingdao_share_content">网页分享</string>
+    <string name="ssdk_neteasemicroblog">网易微博</string>
+    <string name="ssdk_oks_cancel">取消</string>
+    <string name="ssdk_oks_finish">完成</string>
+    <string name="ssdk_oks_list_friends">%s的朋友</string>
+    <string name="ssdk_oks_multi_share">图文分享</string>
+    <string name="ssdk_oks_pull_to_refresh">下拉刷新</string>
+    <string name="ssdk_oks_refreshing">刷新中…</string>
+    <string name="ssdk_oks_release_to_refresh">松开刷新</string>
+    <string name="ssdk_oks_select_a_friend">请选择一个朋友</string>
+    <string name="ssdk_oks_select_one_plat_at_least">请选择一个目标平台</string>
+    <string name="ssdk_oks_shake2share">摇晃手机！</string>
+    <string name="ssdk_oks_share">分享</string>
+    <string name="ssdk_oks_share_canceled">分享已取消</string>
+    <string name="ssdk_oks_share_completed">分享成功</string>
+    <string name="ssdk_oks_share_failed">分享失败</string>
+    <string name="ssdk_oks_share_to">分享到</string>
+    <string name="ssdk_oks_sharing">分享操作正在后台进行…</string>
+    <string name="ssdk_pinterest">Pinterest</string>
+    <string name="ssdk_pinterest_client_inavailable">Pinterest版本过低或者没有安装，需要升级或安装Pinterest才能使用！</string>
+    <string name="ssdk_pocket">Pocket</string>
+    <string name="ssdk_qq">QQ</string>
+    <string name="ssdk_qq_client_inavailable">QQ 版本过低或者没有安装，需要升级或安装QQ才能使用！</string>
+    <string name="ssdk_qzone">QQ空间</string>
+    <string name="ssdk_renren">人人网</string>
+    <string name="ssdk_share_to_baidutieba">分享到百度贴吧</string>
+    <string name="ssdk_share_to_mingdao">分享到明道</string>
+    <string name="ssdk_share_to_qq">分享到QQ</string>
+    <string name="ssdk_share_to_qzone">分享到QQ空间</string>
+    <string name="ssdk_share_to_qzone_default">来自%s的分享</string>
+    <string name="ssdk_shortmessage">信息</string>
+    <string name="ssdk_sinaweibo">新浪微博</string>
+    <string name="ssdk_sohumicroblog">搜狐微博</string>
+    <string name="ssdk_sohusuishenkan">搜狐随身看</string>
+    <string name="ssdk_tencentweibo">腾讯微博</string>
+    <string name="ssdk_tumblr">Tumblr</string>
+    <string name="ssdk_twitter">Twitter</string>
+    <string name="ssdk_use_login_button">请改用“登录”按钮</string>
+    <string name="ssdk_vkontakte">VK</string>
+    <string name="ssdk_website">http://www.mob.com</string>
+    <string name="ssdk_wechat">微信好友</string>
+    <string name="ssdk_wechat_client_inavailable">目前您的微信版本过低或未安装微信，需要安装微信才能使用</string>
+    <string name="ssdk_wechatfavorite">微信收藏</string>
+    <string name="ssdk_wechatmoments">微信朋友圈</string>
+    <string name="ssdk_weibo_oauth_regiseter">应用授权</string>
+    <string name="ssdk_weibo_upload_content">分享图片</string>
+    <string name="ssdk_whatsapp">WhatsApp</string>
+    <string name="ssdk_whatsapp_client_inavailable">目前您的WhatsApp版本过低或未安装，需要安装WhatsApp才能使用</string>
+    <string name="ssdk_yixin">易信</string>
+    <string name="ssdk_yixin_client_inavailable">目前您的易信版本过低或未安装，需要安装易信才能使用</string>
+    <string name="ssdk_yixinmoments">易信朋友圈</string>
+    <string name="ssdk_youdao">有道云笔记</string>
+    <string name="title_activity_main">Main</string>
+    <string name="xlistview_footer_hint_normal">上滑查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_last_time">更新：</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="MyTheme" parent="AppBaseTheme">
+      
+      
+        <item name="android:windowNoTitle">true</item>  
+        <item name="android:animationDuration">5000</item>
+        <item name="android:windowContentOverlay">@null</item>  
+    </style>
+    <style name="load_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="ptr_arrow">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:src">@drawable/default_ptr_flip_bottom</item>
+        <item name="android:layout_marginLeft">10dp</item>
+    </style>
+    <style name="ptr_header">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="ptr_headerContainer">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">bottom</item>
+    </style>
+    <style name="ptr_last_updated" parent="ptr_text">
+        <item name="android:textStyle">normal</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+        <item name="android:layout_below">@+id/ptr_id_text</item>
+    </style>
+    <style name="ptr_spinner" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:indeterminate">true</item>
+        <item name="android:layout_marginLeft">28dp</item>
+    </style>
+    <style name="ptr_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="ptr_textwrapper">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <style name="toolbar_action">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:minWidth">44.0dip</item>
+        <item name="android:layout_weight">0.0</item>
+    </style>
+    <style name="toolbar_action_comment">
+        <item name="android:textSize">8.0sp</item>
+        <item name="android:textColor">@color/action_comment_text</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@color/action_comment_bg</item>
+        <item name="android:paddingLeft">2.0dip</item>
+        <item name="android:paddingRight">2.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">10.0dip</item>
+        <item name="android:layout_marginTop">-6.0dip</item>
+        <item name="android:maxWidth">44.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+</resources>

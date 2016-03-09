@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\dianliang\\XListView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ptr_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\dianliang\\XListView\\build\\intermediates\\bundles\\debug\\res\\layout\\ptr_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\dianliang\\XListView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\dianliang\\XListView\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\dianliang\\XListView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_footer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\dianliang\\XListView\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_footer.xml"
+    }
+]

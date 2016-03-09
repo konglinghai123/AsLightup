@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\dianliang\dawnlightning\libs\MobTools.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6500c123b711a614351dec62ac91463d6fd1d1a3">
+        <dex dex="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\pre-dexed\debug\MobTools_6a044e823860bcb04b310ebed8172f5b73274491.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\exploded-aar\dianliang\gesture-imageview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="920b42620f0bdf5a895c1c1e2057f9b8877d5232">
+        <dex dex="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\pre-dexed\debug\dianliang-gesture-imageview-unspecified_8f1a62e572f668d3a80bca8cc1754f6ef9f68ba7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\dianliang\dawnlightning\libs\httpmime-4.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6acbb2ba813e406f946d33dc14150e24c00b2c57">
+        <dex dex="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\pre-dexed\debug\httpmime-4.2_3a8f38633e98a8055ccd260d10f02bff727dbcb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\dianliang\dawnlightning\libs\ShareSDK-QQ-2.6.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d11fa625500c376316f170fa88db2d490bdcfe36">
+        <dex dex="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.6.5_f52d7cfe969d51615092f1becfa60b61d09b78d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\dianliang\dawnlightning\libs\jpush-sdk-release1.8.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="99b4fcf27b1215c18bf2d467538bc4206d8b1bcf">
+        <dex dex="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\pre-dexed\debug\jpush-sdk-release1.8.2_f936641fab3f78799586505a10631ee3a3a754e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\dianliang\dawnlightning\libs\afinal_0.5.1_bin.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ae398c74701392473b9cb488c76a92576d6f548c">
+        <dex dex="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\pre-dexed\debug\afinal_0.5.1_bin_5916483abdb087d7ed2bbd1dd7bcc0b2cf6d484f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\exploded-aar\dianliang\XListView\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="be2302fc800092a3ad1698a746abcdbad004495b">
+        <dex dex="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\pre-dexed\debug\dianliang-XListView-unspecified_f0c4f8752f05d8eb9f3b0c0267ce80136f697765.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\dianliang\dawnlightning\libs\MobCommons.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f89584e671c06a7c7f2b1029456b0fdd4335171f">
+        <dex dex="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\pre-dexed\debug\MobCommons_4ce7079dbb7a5651f0f9fe04879055a868e225b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\dianliang\dawnlightning\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="53307dc2bd2b69fd5533458ee11885f55807de4b">
+        <dex dex="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\pre-dexed\debug\android-support-v4_cc32615931ba896d02daed99933e053c94fc8c9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\dianliang\dawnlightning\libs\ShareSDK-Core-2.6.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="eddb7bb8000bacadc595176dba1d3ac6d78d2943">
+        <dex dex="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.6.5_16c51773903f96d01d3540a61dcc42baefa57608.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\dianliang\dawnlightning\libs\ShareSDK-QZone-2.6.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="666f431fd1f77d7fd67deca6802c2a8e8e6a4500">
+        <dex dex="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.6.5_5da6b7e2e0b58b5bc28480d0266d5d5dc755ad6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\dianliang\dawnlightning\libs\ShareSDK-Wechat-2.6.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b052f69d45e5adf9adb887053ae844c9c638b63f">
+        <dex dex="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.6.5_ffa2674560a873d176f06de9caa8f8cd2b258c35.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\dianliang\dawnlightning\libs\ShareSDK-Wechat-Core-2.6.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="158796f5d03642141aeb87176152f513a6ae2734">
+        <dex dex="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.6.5_3f4bb40528c7363800a881a2c2a1646b14176967.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\dianliang\dawnlightning\libs\ShareSDK-Wechat-Moments-2.6.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ef808de23dbf4d18312d7bbd790f1511957202bc">
+        <dex dex="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.6.5_baa30465eb590fe2421d1660c25d03aa5ed0e3e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\dianliang\dawnlightning\libs\fastjson-1.1.38.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1edccd37c7a288cce12bd1be1831ab6f8ed8fa12">
+        <dex dex="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\pre-dexed\debug\fastjson-1.1.38_4838e3441657fbc8dc9648b3caab11d2c2a993c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\exploded-aar\dianliang\imageloadlibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a437d16e821e75cdf09cdffdcc852556e8015c76">
+        <dex dex="C:\Users\Administrator\Desktop\dianliang\dawnlightning\build\intermediates\pre-dexed\debug\dianliang-imageloadlibrary-unspecified_0d88d1f7f1a055824c66763bf6238edab891cc72.jar" />
+    </item>
+
+</items>
